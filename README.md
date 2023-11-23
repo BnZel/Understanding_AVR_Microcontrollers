@@ -34,6 +34,8 @@ The ATTiny85 is bootloaded with [TinyCore](https://github.com/SpenceKonde/ATTiny
 * Blue LED
 * Tactile push buttons - x2
 
+**(Resistors on RESET pins of the MCUs must be pulled to LOW (GND) when programming, HIGH (VCC) after programming)**
+
 ## Software Resources:
 * [MiniCore](https://github.com/MCUdude/MiniCore)
 * [TinyCore](https://github.com/SpenceKonde/ATTinyCore)
