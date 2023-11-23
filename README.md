@@ -1,6 +1,6 @@
 # Understanding AVR Microcontrollers
 ## Overview
-Having played around with the [Arduino](https://www.arduino.cc/), I wanted to expand my knowledge by digging deep into  I wanted to expand my knowledge by digging into the heart of Arduino's: [Atmel's AVR MCUs](https://en.wikipedia.org/wiki/AVR_microcontrollers). 
+Having played around with the [Arduino](https://www.arduino.cc/), I wanted to expand my knowledge by digging into the heart of Arduino's: [Atmel's AVR MCUs](https://en.wikipedia.org/wiki/AVR_microcontrollers). 
 
 In general, differences between the two are how it's programmed. The Arduino makes it easily accessible to utilize tools without having to deal with the underlying hardware (using the C++ language), like the [AVR](https://www.nongnu.org/avr-libc/user-manual/) (using a version of C: avr-gcc) does.
 
